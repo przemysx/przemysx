@@ -1,13 +1,49 @@
 # Przemyslaw Duda
 
+## About
 
-Sed metus ante, feugiat id vulputate nec, hendrerit at ex. Duis consectetur orci nisl, eget consectetur erat interdum id. Pellentesque et sagittis erat. Sed molestie lectus dapibus hendrerit porttitor. In hac habitasse platea dictumst. Phasellus tincidunt sit amet leo facilisis vulputate. Nulla facilisi. Vestibulum imperdiet turpis non feugiat pulvinar. Pellentesque ut venenatis nulla, a sodales lorem. Nullam aliquam hendrerit justo, ac fringilla urna facilisis a. Maecenas convallis iaculis lorem, vitae dapibus justo viverra at. Phasellus viverra massa massa, non efficitur nisl malesuada in. Donec sed vehicula magna, ac aliquam nisi.
+Offensive Security Researcher at Intel.
+Low-level technology hacker and enthusiast. Likes to understand how things work.
+
+## Professional Tasks
+- discovering new attacks on Confidential Computing technologies (e.g. Intel SGX, TDX)
+- running the security hackathon program
+- enabling Intel teams with emerging technologies
+
+
+## Public
+
+- Contribution to JEDEC DDR5 SDRAM Specification
+- Intel.BIN [blog](https://www.intel.com/content/www/us/en/security/security-practices/blogs/bios-binary-instrumentation-framework.html)
+- [Intel SA00398](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00398.html)
+- [Intel SA00738](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00738.html)
+
+
+## Patents
+
+- Method and Apparatus for Detecting ATS-Based DMA Attacks
+- Lockable Hierarchical Paging Structures
+
+
 
 ## Conferences
 
-Sed metus leo, malesuada ac consequat et, vehicula sit amet felis. Fusce eu libero ac erat aliquet tincidunt vitae eget risus. Proin ut tellus ac nisi semper iaculis a a purus. Morbi in urna nisi. Proin venenatis porttitor sapien. Nunc blandit lectus odio, a posuere orci rutrum et. Vivamus tristique dignissim tellus vel consectetur.
+- iSecCon 2018, 2020, 2021
+- BlackHat EU 2021
+- The Hack Summit 2024, 2025
+
+
+> [!NOTE]
+> Additional work and findings exist that cannot be disclosed publicly due to confidentiality agreements.
+
+## Tags
+
+- `micro/macro` - knowledgable in few micro and macro architectures
+- `fuzzing sw/fw/hw` - creating new techs
+- `memory subsystem` - from memory store to DRAM cell impl
 
 
 ## Contact
 
-- defacedbeef@icloud.com
+- defacedbeef@icloud.com / przemyslaw.duda@intel.com
+
